@@ -31,5 +31,3 @@ print('Standard Error Lift: ' + str(std_err_lift*100))
 print('Lower Confidence: ' + str(l_conf*100))
 print('Upper COnfidence: ' + str(u_conf*100))
 print('T-Score: ' + stat_sig(t_val) +' ' + str(t_val))
-
-
