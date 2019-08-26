@@ -1,2 +1,2 @@
 # ABExperimentation
-Python & SQL for A/B Experimentation.
+Python & SQL for AB Experiment analysis.
